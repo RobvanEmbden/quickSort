@@ -1,0 +1,15 @@
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/bin/Debug/net5.0/QuickSortAlgorithm.deps.json
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/bin/Debug/net5.0/QuickSortAlgorithm.runtimeconfig.json
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/bin/Debug/net5.0/QuickSortAlgorithm.runtimeconfig.dev.json
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/bin/Debug/net5.0/QuickSortAlgorithm.dll
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/bin/Debug/net5.0/ref/QuickSortAlgorithm.dll
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/bin/Debug/net5.0/QuickSortAlgorithm.pdb
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.csprojAssemblyReference.cache
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.AssemblyInfoInputs.cache
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.AssemblyInfo.cs
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.dll
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/ref/QuickSortAlgorithm.dll
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.pdb
+/Users/rob/Projects/QuickSortAlgorithm/QuickSortAlgorithm/obj/Debug/net5.0/QuickSortAlgorithm.genruntimeconfig.cache
